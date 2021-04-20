@@ -73,6 +73,7 @@ A linha de comando que compila é:
 ### Executando
 
 A linha de comando que executa em Ubuntu, Linux, Debian, e outros:
+
 ![run_exe](https://user-images.githubusercontent.com/39354498/115168438-47309380-a091-11eb-863f-b51dc5b6d5e7.png)
 
 
